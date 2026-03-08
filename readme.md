@@ -27,6 +27,4 @@ Note that optimizer checkpoint is not needed in test and specifying checkpoint p
 The model checkpoints after training on our NCCT-DWI dataset are provided.The model file is available for download via Baidu Netdisk:
 Link: https://pan.baidu.com/s/1FlXQJSg7s4im_EMGBH_4lg?pwd=re8i
 
-## Acknowledgement
-Our code is implemented based on [BBDM](https://github.com/xuekt98/BBDM)  
 
